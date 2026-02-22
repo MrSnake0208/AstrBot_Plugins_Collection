@@ -352,9 +352,9 @@
       "工作流"
     ],
     "social_link": "https://github.com/cjxzdzh",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.1",
-    "updated_at": "2026-02-19T04:29:32Z"
+    "updated_at": "2026-02-22T17:45:44Z"
   },
   "astrbot-plugin-payqr": {
     "display_name": "智能收款码",
@@ -2259,8 +2259,8 @@
     ],
     "social_link": "https://github.com/Li-shi-ling",
     "stars": 2,
-    "version": "v1.1.4",
-    "updated_at": "2026-02-21T15:56:29Z"
+    "version": "v1.1.6",
+    "updated_at": "2026-02-22T17:53:00Z"
   },
   "astrbot_plugin_help_typst": {
     "display_name": "插件菜单(typst 实现)",
@@ -3925,9 +3925,9 @@
       "工具"
     ],
     "social_link": "https://box.firefly520.top/",
-    "stars": 18,
+    "stars": 19,
     "version": "1.5.0",
-    "updated_at": "2026-02-22T16:00:29Z",
+    "updated_at": "2026-02-22T18:02:00Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
