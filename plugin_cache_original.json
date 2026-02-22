@@ -1126,9 +1126,9 @@
       "QQ群转发"
     ],
     "social_link": "https://meilunova.pages.dev/",
-    "stars": 7,
+    "stars": 8,
     "version": "0.5.0",
-    "updated_at": "2026-02-22T05:24:43Z",
+    "updated_at": "2026-02-22T22:05:10Z",
     "logo": "https://raw.githubusercontent.com/HSJ-BanFan/astrbot_plugin_telegram_forwarder/main/logo.png"
   },
   "astrbot_plugin_NekoMusic": {
@@ -1574,9 +1574,9 @@
     "repo": "https://github.com/HEI1491/astrbot_plugin_judge",
     "social_link": "https://github.com/HEI1491",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "1.4.6",
-    "updated_at": "2026-02-22T18:50:34Z"
+    "updated_at": "2026-02-22T21:48:22Z"
   },
   "astrbot_plugin_bbt_daily_news": {
     "display_name": "棒棒糖的每日晨报",
