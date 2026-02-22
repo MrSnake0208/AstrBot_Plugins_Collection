@@ -48,8 +48,8 @@
     ],
     "social_link": "https://github.com/potatoworkshop",
     "stars": 0,
-    "version": "v0.1.1",
-    "updated_at": "2026-02-21T15:10:54Z"
+    "version": "v0.2.0",
+    "updated_at": "2026-02-22T18:58:01Z"
   },
   "astrbot-plugin-ow-hero-stats": {
     "display_name": "守望先锋 （国服）数据可视化查询插件",
@@ -1574,9 +1574,9 @@
     "repo": "https://github.com/HEI1491/astrbot_plugin_judge",
     "social_link": "https://github.com/HEI1491",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.4.6",
-    "updated_at": "2026-02-21T16:56:21Z"
+    "updated_at": "2026-02-22T18:50:34Z"
   },
   "astrbot_plugin_bbt_daily_news": {
     "display_name": "棒棒糖的每日晨报",
@@ -2572,9 +2572,9 @@
       "下载"
     ],
     "social_link": "QQ：1067118179",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.0.1",
-    "updated_at": "2025-12-26T16:51:21Z",
+    "updated_at": "2026-02-22T18:48:52Z",
     "logo": "https://raw.githubusercontent.com/Close245/astrbot_plugin_click2download/master/logo.png"
   },
   "astrbot_plugin_gemini": {
@@ -2699,9 +2699,9 @@
     "author": "AGI_Friend_And_You",
     "repo": "https://github.com/204343414/astrbot_plugin_yt-dlp",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.1",
-    "updated_at": "2026-02-17T17:51:59Z",
+    "updated_at": "2026-02-22T18:44:19Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -3357,9 +3357,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 56,
+    "stars": 57,
     "version": "v1.3.0",
-    "updated_at": "2026-02-21T05:56:24Z",
+    "updated_at": "2026-02-22T18:52:00Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
