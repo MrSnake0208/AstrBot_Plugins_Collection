@@ -6405,9 +6405,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.4",
-    "updated_at": "2026-02-04T02:30:30Z"
+    "updated_at": "2026-02-22T20:59:41Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
