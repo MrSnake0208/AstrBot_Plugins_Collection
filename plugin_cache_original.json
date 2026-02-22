@@ -2283,9 +2283,9 @@
       "负载均衡",
       "故障转移"
     ],
-    "stars": 4,
+    "stars": 5,
     "version": "1.2.0",
-    "updated_at": "2026-02-13T02:47:16Z",
+    "updated_at": "2026-02-22T19:47:54Z",
     "logo": "https://raw.githubusercontent.com/fluidcat/astrbot_plugin_lb_provider/master/logo.png"
   },
   "astrbot_plugin_steam_status": {
@@ -3472,9 +3472,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 18,
+    "stars": 19,
     "version": "2.3.1",
-    "updated_at": "2026-02-22T17:11:47Z",
+    "updated_at": "2026-02-22T20:27:00Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
