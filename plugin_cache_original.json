@@ -1521,9 +1521,9 @@
       "推送"
     ],
     "social_link": "https://github.com/siciyuanweilai",
-    "stars": 13,
+    "stars": 14,
     "version": "4.6.1",
-    "updated_at": "2026-02-21T13:54:00Z",
+    "updated_at": "2026-02-22T10:25:22Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2176,9 +2176,9 @@
       "NLP"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 23,
+    "stars": 24,
     "version": "1.1.1",
-    "updated_at": "2026-02-20T14:12:26Z"
+    "updated_at": "2026-02-22T10:25:34Z"
   },
   "astrbot_plugin_80lv": {
     "display_name": "80.lv 文章自动推送",
@@ -2219,9 +2219,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 118,
+    "stars": 120,
     "version": "Next-1.2.9",
-    "updated_at": "2026-02-22T01:02:25Z",
+    "updated_at": "2026-02-22T10:26:49Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3434,9 +3434,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.2.6",
-    "updated_at": "2026-02-18T15:46:50Z",
+    "updated_at": "2026-02-22T10:26:15Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_life_scheduler/main/logo.png"
   },
   "astrbot_plugin_stealer": {
@@ -3584,9 +3584,9 @@
       "画图"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 39,
+    "stars": 40,
     "version": "v4.1.2",
-    "updated_at": "2026-02-21T08:52:14Z",
+    "updated_at": "2026-02-22T10:25:45Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_gitee_aiimg/main/logo.png"
   },
   "astrbot_plugin_vertex_image-command": {
@@ -4323,7 +4323,7 @@
     "social_link": "https://www.misakanet.site",
     "stars": 8,
     "version": "2.0.1",
-    "updated_at": "2026-02-21T06:36:22Z",
+    "updated_at": "2026-02-22T09:33:31Z",
     "logo": "https://raw.githubusercontent.com/railgun19457/astrbot_plugin_minecraft_adapter/master/logo.png"
   },
   "astrbot_plugin_temp-email": {
@@ -4864,9 +4864,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 43,
+    "stars": 44,
     "version": "v1.1.2",
-    "updated_at": "2026-02-19T04:11:57Z",
+    "updated_at": "2026-02-22T10:26:03Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -7186,9 +7186,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 30,
+    "stars": 31,
     "version": "v2.1.6",
-    "updated_at": "2026-02-21T03:14:40Z",
+    "updated_at": "2026-02-22T10:26:42Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -8861,9 +8861,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 103,
+    "stars": 104,
     "version": "v2.0.7",
-    "updated_at": "2026-02-21T17:06:26Z",
+    "updated_at": "2026-02-22T10:26:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -9008,9 +9008,9 @@
       "工具"
     ],
     "social_link": "https://github.com/Angus-fw",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.2.2",
-    "updated_at": "2026-02-13T14:40:02Z"
+    "updated_at": "2026-02-22T10:24:35Z"
   },
   "astrbot_plugin_timetask": {
     "author": "ZW",
@@ -11397,9 +11397,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 140,
+    "stars": 141,
     "version": "v3.19",
-    "updated_at": "2026-02-22T04:32:23Z"
+    "updated_at": "2026-02-22T10:26:24Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
