@@ -217,9 +217,9 @@
       "服务器"
     ],
     "social_link": "https://github.com/HSOS6",
-    "stars": 7,
+    "stars": 8,
     "version": "v1.3.0",
-    "updated_at": "2026-02-21T12:04:55Z",
+    "updated_at": "2026-02-22T23:23:12Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -2961,8 +2961,8 @@
       "人格"
     ],
     "stars": 26,
-    "version": "1.2.6",
-    "updated_at": "2026-02-22T16:08:04Z"
+    "version": "1.2.7",
+    "updated_at": "2026-02-22T23:17:03Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -7998,9 +7998,9 @@
       "文件处理"
     ],
     "author": null,
-    "stars": 24,
+    "stars": 25,
     "version": "2.6.0",
-    "updated_at": "2026-02-20T17:50:48Z"
+    "updated_at": "2026-02-22T22:49:38Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
