@@ -260,7 +260,7 @@
     "social_link": "https://github.com/advent259141",
     "stars": 24,
     "version": "2.6.2",
-    "updated_at": "2026-02-18T05:50:27Z"
+    "updated_at": "2026-02-22T07:27:38Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -1575,7 +1575,7 @@
     "social_link": "https://github.com/SXP-Simon",
     "stars": 169,
     "version": "v4.7.10",
-    "updated_at": "2026-02-21T15:36:59Z",
+    "updated_at": "2026-02-22T07:33:52Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -2894,9 +2894,9 @@
       "学习",
       "人格"
     ],
-    "stars": 24,
+    "stars": 25,
     "version": "1.2.6",
-    "updated_at": "2026-02-22T04:33:47Z"
+    "updated_at": "2026-02-22T06:04:33Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -3458,9 +3458,9 @@
       "海啸预警"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 37,
+    "stars": 38,
     "version": "v1.3.9",
-    "updated_at": "2026-02-22T05:29:16Z",
+    "updated_at": "2026-02-22T06:24:27Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_disaster_warning/main/logo.png"
   },
   "astrbot_plugin_lofter_parser": {
@@ -5114,9 +5114,9 @@
       "AI"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 7,
+    "stars": 8,
     "version": "0.3.0",
-    "updated_at": "2026-02-19T09:21:05Z",
+    "updated_at": "2026-02-22T06:11:44Z",
     "logo": "https://raw.githubusercontent.com/oyxning/astrbot-plugin-moremorelove/main/logo.png"
   },
   "astrbot_plugin_genie-tts": {
@@ -5606,7 +5606,7 @@
     ],
     "stars": 0,
     "version": "v1.9.2",
-    "updated_at": "2026-02-10T14:07:44Z",
+    "updated_at": "2026-02-22T07:24:32Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_file_checker/master/logo.png"
   },
   "astrbot_plugin_tg_button": {
@@ -10942,7 +10942,7 @@
     ],
     "stars": 1,
     "version": "v1.0.8",
-    "updated_at": "2026-02-22T05:34:13Z"
+    "updated_at": "2026-02-22T07:32:46Z"
   },
   "astrbot_plugin_majsoul-master": {
     "desc": "一个雀魂多功能插件",
@@ -11013,9 +11013,9 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 66,
+    "stars": 67,
     "version": "v0.2.14",
-    "updated_at": "2026-01-31T06:34:03Z"
+    "updated_at": "2026-02-22T06:15:10Z"
   },
   "astrbot_plugin_sjzb": {
     "desc": "随机生成《绝地潜兵2》游戏中一组 4 个战备配置",
