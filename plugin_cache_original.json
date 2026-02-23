@@ -565,7 +565,7 @@
     ],
     "stars": 15,
     "version": "v1.2.3",
-    "updated_at": "2026-02-23T05:27:38Z"
+    "updated_at": "2026-02-23T11:27:48Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -2588,9 +2588,9 @@
       "下载"
     ],
     "social_link": "QQ：1067118179",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.0.1",
-    "updated_at": "2026-02-22T18:48:52Z",
+    "updated_at": "2026-02-23T11:04:27Z",
     "logo": "https://raw.githubusercontent.com/Close245/astrbot_plugin_click2download/master/logo.png"
   },
   "astrbot_plugin_gemini": {
@@ -4257,9 +4257,9 @@
       "llm工具"
     ],
     "social_link": "https://github.com/vmoranv",
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.0",
-    "updated_at": "2025-12-18T09:29:31Z"
+    "updated_at": "2026-02-23T11:02:34Z"
   },
   "astrbot_plugin_whitelistpro": {
     "display_name": "白名单拓展",
@@ -8902,9 +8902,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 104,
+    "stars": 105,
     "version": "v2.0.7",
-    "updated_at": "2026-02-22T10:26:33Z",
+    "updated_at": "2026-02-23T11:23:06Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -9724,9 +9724,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 150,
+    "stars": 151,
     "version": "v3.0.2",
-    "updated_at": "2026-02-23T05:47:51Z",
+    "updated_at": "2026-02-23T11:23:11Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
@@ -10412,9 +10412,9 @@
       "浏览器"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-    "stars": 25,
+    "stars": 26,
     "version": "v2.0.0",
-    "updated_at": "2026-02-22T12:44:30Z",
+    "updated_at": "2026-02-23T11:22:20Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -11334,9 +11334,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 100,
+    "stars": 101,
     "version": "v2.1.10",
-    "updated_at": "2026-02-23T07:41:22Z"
+    "updated_at": "2026-02-23T11:22:56Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
