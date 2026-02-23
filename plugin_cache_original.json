@@ -23,8 +23,8 @@
     "social_link": "https://github.com/xiaomizhoubaobei",
     "tags": [],
     "stars": 1,
-    "version": "v0.0.1",
-    "updated_at": "2026-02-22T14:48:13Z",
+    "version": "v0.0.2",
+    "updated_at": "2026-02-23T10:20:48Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes/main/logo.png"
   },
   "astrbot-plugin-soulmap": {
@@ -3315,9 +3315,9 @@
     "tags": [
       "memory"
     ],
-    "stars": 16,
+    "stars": 15,
     "version": "v3.0.1",
-    "updated_at": "2026-02-20T16:03:41Z"
+    "updated_at": "2026-02-23T10:09:51Z"
   },
   "astrbot_plugin_echo": {
     "display_name": "echo",
@@ -6560,9 +6560,9 @@
       "memory",
       "rag"
     ],
-    "stars": 69,
+    "stars": 70,
     "version": "2.2.3",
-    "updated_at": "2026-02-23T02:21:17Z",
+    "updated_at": "2026-02-23T10:01:50Z",
     "logo": "https://raw.githubusercontent.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory/master/logo.png"
   },
   "astrbot_plugin_mathitools": {
