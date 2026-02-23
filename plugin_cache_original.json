@@ -1,4 +1,19 @@
 {
+  "astrbot-plugin-iris-memory": {
+    "display_name": "Iris Memory 智能三层记忆",
+    "desc": "三层记忆插件，为 AstrBot 提供智能记忆管理能力，内置知识图谱、向量数据库、用户画像等增强功能，同时提供纯规则、LLM和混合三种模式的切换",
+    "author": "Leafiber",
+    "repo": "https://github.com/leafliber/astrbot_plugin_iris_memory",
+    "tags": [
+      "记忆",
+      "知识图谱",
+      "用户画像"
+    ],
+    "social_link": "https://github.com/leafliber",
+    "stars": 1,
+    "version": "v1.6.1",
+    "updated_at": "2026-02-23T05:56:48Z"
+  },
   "astrbot-plugin-manosaba-memes": {
     "display_name": "魔裁 Memes",
     "desc": "生成「魔法少女的魔法审判」的表情包",
@@ -420,9 +435,9 @@
       "视频",
       "联网搜索"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "2.3.0",
-    "updated_at": "2026-02-22T02:11:02Z",
+    "updated_at": "2026-02-23T07:15:57Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -1547,8 +1562,8 @@
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 14,
-    "version": "4.6.1",
-    "updated_at": "2026-02-22T10:25:22Z",
+    "version": "4.6.2",
+    "updated_at": "2026-02-23T07:20:36Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -1639,9 +1654,9 @@
       "群聊圣经"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 173,
+    "stars": 176,
     "version": "v4.7.13",
-    "updated_at": "2026-02-23T00:50:26Z",
+    "updated_at": "2026-02-23T07:45:27Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1773,8 +1788,8 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "stars": 6,
-    "version": "v1.4.3",
-    "updated_at": "2026-02-23T02:13:03Z",
+    "version": "v1.5.0",
+    "updated_at": "2026-02-23T07:00:54Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -2244,9 +2259,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 121,
+    "stars": 123,
     "version": "Next-2.0.0",
-    "updated_at": "2026-02-23T05:51:09Z",
+    "updated_at": "2026-02-23T06:42:58Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -2355,9 +2370,9 @@
       "平台适配器"
     ],
     "social_link": "https://github.com/stevessr",
-    "stars": 8,
+    "stars": 9,
     "version": "0.3.3",
-    "updated_at": "2026-02-23T01:00:26Z",
+    "updated_at": "2026-02-23T06:50:23Z",
     "logo": "https://raw.githubusercontent.com/stevessr/astrbot_plugin_matrix_adapter/master/logo.png"
   },
   "astrbot_plugin_url_image_auto": {
@@ -3927,7 +3942,7 @@
     "social_link": "https://box.firefly520.top/",
     "stars": 19,
     "version": "1.5.0",
-    "updated_at": "2026-02-22T18:02:00Z",
+    "updated_at": "2026-02-23T07:38:56Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_web_analyzer/master/logo.png"
   },
   "astrbot_plugin_ComfyUI_promax": {
@@ -4065,9 +4080,9 @@
       "gal"
     ],
     "social_link": "https://github.com/bvzrays",
-    "stars": 49,
+    "stars": 50,
     "version": "v2.3.0",
-    "updated_at": "2026-02-15T19:35:45Z",
+    "updated_at": "2026-02-23T07:20:42Z",
     "logo": "https://raw.githubusercontent.com/bvzrays/astrbot_plugin_chuanhuatong/master/logo.png"
   },
   "astrbot_plugin_steamgame": {
@@ -4889,9 +4904,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 45,
+    "stars": 46,
     "version": "v1.1.2",
-    "updated_at": "2026-02-23T04:37:07Z",
+    "updated_at": "2026-02-23T07:51:49Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -6393,8 +6408,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 39,
-    "version": "v1.8.7",
-    "updated_at": "2026-02-17T03:29:50Z"
+    "version": "v2.0.0",
+    "updated_at": "2026-02-23T07:14:26Z"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -7501,9 +7516,9 @@
       "Markdown",
       "文转图"
     ],
-    "stars": 6,
+    "stars": 7,
     "version": "v1.2.0",
-    "updated_at": "2026-02-07T05:58:58Z"
+    "updated_at": "2026-02-23T06:30:24Z"
   },
   "pjsk_guess_song": {
     "desc": "PJSK 猜歌游戏插件",
@@ -11318,9 +11333,9 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 99,
+    "stars": 100,
     "version": "v2.1.10",
-    "updated_at": "2026-02-20T12:14:19Z"
+    "updated_at": "2026-02-23T07:41:22Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -11422,9 +11437,9 @@
       "图床"
     ],
     "pinned": true,
-    "stars": 143,
+    "stars": 145,
     "version": "v3.19",
-    "updated_at": "2026-02-23T05:46:26Z"
+    "updated_at": "2026-02-23T07:34:47Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
