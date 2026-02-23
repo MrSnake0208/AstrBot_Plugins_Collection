@@ -10,9 +10,9 @@
       "用户画像"
     ],
     "social_link": "https://github.com/leafliber",
-    "stars": 1,
-    "version": "v1.6.2",
-    "updated_at": "2026-02-23T09:53:02Z",
+    "stars": 2,
+    "version": "v1.7.0",
+    "updated_at": "2026-02-23T16:13:19Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -248,7 +248,7 @@
     ],
     "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-02-23T13:26:58Z"
+    "updated_at": "2026-02-23T16:10:03Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -351,9 +351,9 @@
     "repo": "https://github.com/chuyegzs/astrbot_plugin_meting",
     "social_link": "www.chuyel.cn",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.5",
-    "updated_at": "2026-02-23T12:33:13Z",
+    "updated_at": "2026-02-23T15:54:27Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -795,9 +795,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 20,
+    "stars": 21,
     "version": "1.1.1",
-    "updated_at": "2026-02-23T13:43:51Z",
+    "updated_at": "2026-02-23T15:52:40Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -1188,9 +1188,9 @@
       "分段回复"
     ],
     "social_link": "https://cinder.wyccotccy.cn/",
-    "stars": 1,
+    "stars": 2,
     "version": "3.0.2",
-    "updated_at": "2026-02-05T16:13:34Z"
+    "updated_at": "2026-02-23T15:52:51Z"
   },
   "astrbot_plugin_vibe": {
     "display_name": "vibe",
@@ -1656,8 +1656,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 178,
-    "version": "v4.7.13",
-    "updated_at": "2026-02-23T14:58:16Z",
+    "version": "v4.7.14",
+    "updated_at": "2026-02-23T16:41:15Z",
     "logo": "https://raw.githubusercontent.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis/main/logo.png"
   },
   "astrbot_plugin_poke_to_llm": {
@@ -1789,8 +1789,8 @@
     ],
     "social_link": "https://qwq.pyuramazo.online",
     "stars": 6,
-    "version": "v1.5.0",
-    "updated_at": "2026-02-23T07:00:54Z",
+    "version": "v1.5.1",
+    "updated_at": "2026-02-23T16:08:57Z",
     "logo": "https://raw.githubusercontent.com/PyuraMazo/astrbot_plugin_galgame_box/master/logo.png"
   },
   "astrbot_plugin_anitabi": {
@@ -2717,7 +2717,7 @@
     "tags": [],
     "stars": 5,
     "version": "1.0.1",
-    "updated_at": "2026-02-22T18:44:19Z",
+    "updated_at": "2026-02-23T16:04:52Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -2892,9 +2892,9 @@
       "小游戏"
     ],
     "social_link": "https://github.com/MegSopern",
-    "stars": 19,
+    "stars": 20,
     "version": "1.2.0",
-    "updated_at": "2026-02-21T13:27:00Z",
+    "updated_at": "2026-02-23T16:36:03Z",
     "logo": "https://raw.githubusercontent.com/MegSopern/astrbot_plugin_rollpig/main/logo.png"
   },
   "astrbot_plugin_big_banana": {
@@ -6160,9 +6160,9 @@
     "author": "ctrlkk",
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
-    "stars": 13,
+    "stars": 14,
     "version": "v1.3",
-    "updated_at": "2026-02-04T05:47:18Z"
+    "updated_at": "2026-02-23T15:53:07Z"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
@@ -8800,9 +8800,9 @@
     "desc": "Bilibili视频字幕总结插件，获取B站视频字幕并使用LLM生成内容总结",
     "repo": "https://github.com/VincenttHo/astrbot_plugin_bilibili_summary",
     "tags": [],
-    "stars": 5,
+    "stars": 6,
     "version": "v1.0.1",
-    "updated_at": "2025-12-02T14:25:54Z"
+    "updated_at": "2026-02-23T16:37:11Z"
   },
   "astrbot_plugin_steam_status_monitor": {
     "author": "猫耳",
