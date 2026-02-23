@@ -270,9 +270,9 @@
       "日记保存"
     ],
     "social_link": "https://github.com/iamfromchangsha",
-    "stars": 2,
+    "stars": 3,
     "version": "1.4.0",
-    "updated_at": "2026-02-19T11:36:44Z",
+    "updated_at": "2026-02-23T19:04:21Z",
     "logo": "https://raw.githubusercontent.com/iamfromchangsha/astrbot_plugin_niji/master/logo.png"
   },
   "astrbot-plugin-phigros": {
@@ -563,9 +563,9 @@
       "geminicil",
       "opencode"
     ],
-    "stars": 15,
+    "stars": 16,
     "version": "v1.2.3",
-    "updated_at": "2026-02-23T12:31:35Z"
+    "updated_at": "2026-02-23T19:17:52Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -705,9 +705,9 @@
       "王者荣耀",
       "数据查询"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.2",
-    "updated_at": "2026-02-16T10:13:19Z",
+    "updated_at": "2026-02-23T18:14:11Z",
     "logo": "https://raw.githubusercontent.com/qsc20001102/astrbot_plugin_gok/master/logo.png"
   },
   "astrbot_plugin_lyrics_trigger": {
@@ -1394,9 +1394,9 @@
       "COC",
       "骰娘"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-02-04T08:44:49Z"
+    "updated_at": "2026-02-23T19:12:57Z"
   },
   "astrbot_plugin_bestdori_tools": {
     "display_name": "BanG！Dream！Bestdori工具箱",
@@ -2717,7 +2717,7 @@
     "tags": [],
     "stars": 5,
     "version": "1.0.1",
-    "updated_at": "2026-02-23T16:04:52Z",
+    "updated_at": "2026-02-23T18:07:19Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot_plugin_yt-dlp/master/logo.png"
   },
   "astrbot_plugin_yotts": {
@@ -3488,9 +3488,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 19,
+    "stars": 20,
     "version": "2.3.2",
-    "updated_at": "2026-02-23T00:15:34Z",
+    "updated_at": "2026-02-23T19:20:44Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7175,9 +7175,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 33,
+    "stars": 34,
     "version": "v2.1.2",
-    "updated_at": "2026-02-21T19:43:48Z",
+    "updated_at": "2026-02-23T19:13:19Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_wakepro/main/logo.png"
   },
   "astrbot_plugin_memora_connect": {
@@ -10426,9 +10426,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 96,
+    "stars": 97,
     "version": "v3.2.7",
-    "updated_at": "2026-02-21T12:27:22Z",
+    "updated_at": "2026-02-23T18:58:33Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -12061,9 +12061,9 @@
     "author": "FengYing",
     "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition",
     "tags": [],
-    "stars": 10,
+    "stars": 11,
     "version": "v1.0.2",
-    "updated_at": "2025-10-04T08:09:08Z"
+    "updated_at": "2026-02-23T18:59:56Z"
   },
   "FateTrial_Star_Rail": {
     "desc": "崩铁查询插件",
