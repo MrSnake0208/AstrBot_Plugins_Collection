@@ -61,9 +61,9 @@
       "数据查询"
     ],
     "social_link": "https://github.com/Eager2024",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0",
-    "updated_at": "2026-02-23T02:14:01Z"
+    "updated_at": "2026-02-23T02:40:26Z"
   },
   "astrbot-plugin-sentinel": {
     "display_name": "QQ 群哨兵",
@@ -230,9 +230,9 @@
     "tags": [
       "平台适配器"
     ],
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-02-21T15:56:43Z"
+    "updated_at": "2026-02-23T04:56:54Z"
   },
   "astrbot-plugin-halo-manager": {
     "display_name": "博客管理器",
@@ -324,9 +324,9 @@
       "自动水贴"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 24,
+    "stars": 25,
     "version": "2.6.2",
-    "updated_at": "2026-02-22T07:27:38Z"
+    "updated_at": "2026-02-23T04:33:05Z"
   },
   "astrbot-plugin-meting": {
     "display_name": "初叶🍂MetingAPI 点歌",
@@ -337,7 +337,7 @@
     "tags": [],
     "stars": 3,
     "version": "v1.0.5",
-    "updated_at": "2026-02-23T01:42:28Z",
+    "updated_at": "2026-02-23T02:52:53Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -547,9 +547,9 @@
       "geminicil",
       "opencode"
     ],
-    "stars": 14,
+    "stars": 15,
     "version": "v1.2.3",
-    "updated_at": "2026-02-22T14:50:19Z"
+    "updated_at": "2026-02-23T04:06:39Z"
   },
   "astrbot_plugin_mc_duration": {
     "display_name": "MC魔人时长统计",
@@ -1695,9 +1695,9 @@
       "用来水作业再合适不过了"
     ],
     "social_link": "https://blog.gbkgov.cn",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.0",
-    "updated_at": "2026-02-13T13:25:42Z",
+    "updated_at": "2026-02-23T03:29:29Z",
     "logo": "https://raw.githubusercontent.com/Chris95743/astrbot_plugin_mysql/main/logo.png"
   },
   "astrbot_plugin_github_webhook": {
@@ -2586,9 +2586,9 @@
       "下载"
     ],
     "social_link": "https://q.qlogo.cn/g?b=qq&nk=2267154199&s=640",
-    "stars": 36,
+    "stars": 37,
     "version": "v1.1",
-    "updated_at": "2026-02-15T01:28:50Z"
+    "updated_at": "2026-02-23T02:24:55Z"
   },
   "astrbot_plugin_ql_bilibili_account_manager": {
     "display_name": "Bili每日签到（基于青龙）",
@@ -2945,9 +2945,9 @@
       "桌面客户端"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 21,
+    "stars": 22,
     "version": "1.1.3",
-    "updated_at": "2026-02-22T11:24:12Z",
+    "updated_at": "2026-02-23T02:49:23Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_desktop_assistant/main/logo.png"
   },
   "astrbot_plugin_angel_memory": {
@@ -3025,9 +3025,9 @@
     "tags": [
       "文件解析"
     ],
-    "stars": 5,
+    "stars": 6,
     "version": "v3.1.0",
-    "updated_at": "2026-02-21T02:25:37Z"
+    "updated_at": "2026-02-23T02:30:34Z"
   },
   "astrbot_plugin_reminder": {
     "display_name": "定时提醒插件",
@@ -3411,9 +3411,9 @@
     "repo": "https://github.com/CJSen/astrbot_plugin_epic_free_games_notice",
     "social_link": "https://chjs.936668.xyz/",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v0.0.4",
-    "updated_at": "2026-02-17T07:21:57Z"
+    "updated_at": "2026-02-23T02:34:10Z"
   },
   "astrbot_plugin_be_checker": {
     "display_name": "封禁检查",
@@ -3506,9 +3506,9 @@
       "LLM 工具"
     ],
     "social_link": "https://github.com/sl251",
-    "stars": 11,
+    "stars": 12,
     "version": "1.0.5",
-    "updated_at": "2025-12-30T19:53:04Z",
+    "updated_at": "2026-02-23T02:36:03Z",
     "logo": "https://raw.githubusercontent.com/sl251/astrbot_plugin_e2b_sandbox/main/logo.png"
   },
   "astrbot_plugin_disaster_warning": {
@@ -3647,8 +3647,8 @@
     "repo": "https://github.com/bylkuse/astrbot_plugin_bananic_ninjutsu",
     "tags": [],
     "stars": 9,
-    "version": "v0.4.4",
-    "updated_at": "2026-02-21T04:45:42Z",
+    "version": "v0.4.5",
+    "updated_at": "2026-02-23T03:53:15Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_bananic_ninjutsu/master/logo.png"
   },
   "astrbot_plugin_ASCII": {
@@ -4889,9 +4889,9 @@
       "主动回复"
     ],
     "social_link": "https://github.com/Him666233",
-    "stars": 44,
+    "stars": 45,
     "version": "v1.1.2",
-    "updated_at": "2026-02-22T10:26:03Z",
+    "updated_at": "2026-02-23T04:37:07Z",
     "logo": "https://raw.githubusercontent.com/Him666233/astrbot_plugin_group_chat_plus/main/logo.png"
   },
   "astrbot_plugin_message_stats": {
@@ -5165,9 +5165,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 91,
+    "stars": 92,
     "version": "v1.1.5",
-    "updated_at": "2026-02-22T12:00:06Z",
+    "updated_at": "2026-02-23T02:40:39Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -7211,9 +7211,9 @@
       "输出增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 31,
+    "stars": 32,
     "version": "v2.1.6",
-    "updated_at": "2026-02-22T10:26:42Z",
+    "updated_at": "2026-02-23T03:53:59Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_outputpro/main/logo.png"
   },
   "astrbot_plugin_image_summary": {
@@ -7689,7 +7689,7 @@
     ],
     "stars": 7,
     "version": "v1.5.0",
-    "updated_at": "2026-02-22T14:09:07Z",
+    "updated_at": "2026-02-23T04:56:47Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -10681,9 +10681,9 @@
     "author": "AraragiEro",
     "repo": "https://github.com/AraragiEro/astrbot_plugin_kahunabot",
     "tags": [],
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.0",
-    "updated_at": "2026-01-21T04:33:53Z"
+    "updated_at": "2026-02-23T02:33:57Z"
   },
   "astrbot_plugin_vv_pic": {
     "desc": "发送最符合关键词的 vv 表情包",
