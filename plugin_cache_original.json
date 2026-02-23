@@ -1886,9 +1886,9 @@
       "Agent"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.0",
-    "updated_at": "2026-01-20T03:41:01Z"
+    "updated_at": "2026-02-23T17:44:27Z"
   },
   "astrbot_plugin_chatmaster": {
     "display_name": "死了么 | 一款检测群聊活跃度的插件",
@@ -2260,9 +2260,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 123,
+    "stars": 124,
     "version": "Next-2.0.0",
-    "updated_at": "2026-02-23T06:42:58Z",
+    "updated_at": "2026-02-23T18:02:46Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4315,9 +4315,9 @@
       "轮盘"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 3,
+    "stars": 4,
     "version": "1.2.6",
-    "updated_at": "2026-02-21T03:53:24Z",
+    "updated_at": "2026-02-23T17:44:38Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -7836,9 +7836,9 @@
       "拟人"
     ],
     "social_link": "https://github.com/advent259141",
-    "stars": 68,
+    "stars": 69,
     "version": "2.1.0",
-    "updated_at": "2026-02-19T06:17:15Z"
+    "updated_at": "2026-02-23T17:05:20Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
