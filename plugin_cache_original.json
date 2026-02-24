@@ -7,7 +7,7 @@
     "tags": [],
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-02-22T10:35:43Z"
+    "updated_at": "2026-02-24T15:41:50Z"
   },
   "astrbot-plugin-topic-starter": {
     "display_name": "topic_starter",
@@ -514,9 +514,9 @@
       "视频",
       "联网搜索"
     ],
-    "stars": 2,
+    "stars": 3,
     "version": "2.3.0",
-    "updated_at": "2026-02-23T07:15:57Z",
+    "updated_at": "2026-02-24T14:52:07Z",
     "logo": "https://raw.githubusercontent.com/muqing-kg/astrbot_plugin_grok_suite/main/logo.png"
   },
   "astrbot-plugin-chat-polisher": {
@@ -1137,8 +1137,8 @@
       "OpenCode"
     ],
     "stars": 1,
-    "version": "1.1.0",
-    "updated_at": "2026-02-16T02:54:01Z",
+    "version": "1.2.0",
+    "updated_at": "2026-02-24T15:24:55Z",
     "logo": "https://raw.githubusercontent.com/singularity2000/astrbot_plugin_opencode/main/logo.png"
   },
   "astrbot_plugin_claudecode": {
@@ -8981,9 +8981,9 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 106,
+    "stars": 107,
     "version": "v2.0.7",
-    "updated_at": "2026-02-23T14:36:58Z",
+    "updated_at": "2026-02-24T15:04:04Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_music/main/logo.png"
   },
   "astrbot_plugin_renjian": {
@@ -9028,9 +9028,9 @@
       "天气查询"
     ],
     "social_link": "https://github.com/BB0813",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-01-21T10:05:20Z"
+    "updated_at": "2026-02-24T15:03:36Z"
   },
   "astrbot_plugin_chouqunyou": {
     "author": "灵煞",
