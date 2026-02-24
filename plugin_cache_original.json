@@ -1,4 +1,59 @@
 {
+  "astrbot-plugin-web-screenshot": {
+    "display_name": "API网页截图😝",
+    "desc": "基于外部API提供网页截图功能的AstrBot插件，适用于OneBot QQ机器人",
+    "author": "浅月tniay",
+    "repo": "https://github.com/tniany/astrbot_plugin_web-screenshot",
+    "tags": [
+      "截图",
+      "api",
+      "tniay",
+      "Onebot"
+    ],
+    "social_link": "https://github.com/tniany",
+    "stars": 0,
+    "version": "v1.3.1",
+    "updated_at": "2026-02-23T22:39:51Z",
+    "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
+  },
+  "astrbot-plugin-astrbot-enhance-mode": {
+    "display_name": "AstrBot Enhance Mode - 群聊增强插件",
+    "desc": "本插件为 AstrBot 的群聊场景提供增强功能，完全替代内置的「群聊上下文感知」和「主动回复」，并额外支持角色标签和发送者 ID。",
+    "author": "阿汐",
+    "repo": "https://github.com/Axi404/astrbot_plugin_astrbot_enhance_mode",
+    "tags": [
+      "聊天增强"
+    ],
+    "social_link": "https://axi404.top",
+    "stars": 0,
+    "version": "0.2.1",
+    "updated_at": "2026-02-24T03:43:36Z"
+  },
+  "astrbot-plugin-biliVideo": {
+    "display_name": "哔哩哔哩视频总结",
+    "desc": "提供b站视频链接自动生成一份结构化的视频总结,带有订阅up主功能并定时推送最新视频",
+    "author": "storyAura",
+    "repo": "https://github.com/storyAura/astrbot_plugin_biliVideo",
+    "social_link": "https://github.com/storyAura",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-02-24T00:23:40Z",
+    "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
+  },
+  "astrbot-plugin-opencode-client": {
+    "display_name": "Opencode Client",
+    "desc": "用于连接到 Opencode 服务器 https://opencode.ai/docs/server/",
+    "author": "gitsang",
+    "repo": "https://github.com/gitsang/astrbot_plugin_opencode_client",
+    "tags": [
+      "opencode"
+    ],
+    "social_link": "gitsang.github.io",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-23T13:52:21Z"
+  },
   "astrbot-plugin-iris-memory": {
     "display_name": "Iris Memory 智能三层记忆",
     "desc": "三层记忆插件，为 AstrBot 提供智能记忆管理能力，内置知识图谱、向量数据库、用户画像等增强功能，同时提供纯规则、LLM和混合三种模式的切换",
@@ -2285,9 +2340,9 @@
     "author": "bylkuse",
     "repo": "https://github.com/bylkuse/astrbot_plugin_help_typst",
     "tags": [],
-    "stars": 7,
+    "stars": 8,
     "version": "v0.1.1",
-    "updated_at": "2026-02-18T17:59:51Z",
+    "updated_at": "2026-02-24T05:46:05Z",
     "logo": "https://raw.githubusercontent.com/bylkuse/astrbot_plugin_help_typst/master/logo.png"
   },
   "astrbot_plugin_lb_provider": {
@@ -10616,9 +10671,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 56,
+    "stars": 57,
     "version": "v3.0.2",
-    "updated_at": "2026-02-24T01:36:48Z",
+    "updated_at": "2026-02-24T05:39:32Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
