@@ -12,7 +12,7 @@
     "social_link": "https://github.com/leafliber",
     "stars": 2,
     "version": "v1.7.0",
-    "updated_at": "2026-02-23T16:13:19Z",
+    "updated_at": "2026-02-24T02:19:38Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -22,9 +22,9 @@
     "repo": "https://github.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes",
     "social_link": "https://github.com/xiaomizhoubaobei",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "v0.0.3",
-    "updated_at": "2026-02-23T13:39:26Z",
+    "updated_at": "2026-02-24T01:38:22Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes/main/logo.png"
   },
   "astrbot-plugin-soulmap": {
@@ -2260,9 +2260,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 124,
-    "version": "Next-2.0.0",
-    "updated_at": "2026-02-23T18:02:46Z",
+    "stars": 126,
+    "version": "Next-2.0.1",
+    "updated_at": "2026-02-24T02:17:37Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -4280,7 +4280,7 @@
     "tags": [],
     "stars": 8,
     "version": "v3.2.4",
-    "updated_at": "2026-02-20T00:23:45Z"
+    "updated_at": "2026-02-24T01:44:53Z"
   },
   "astrbot_plugin_doubao": {
     "display_name": "豆包即梦生成",
@@ -9088,9 +9088,9 @@
       "RAG",
       "知识库"
     ],
-    "stars": 79,
+    "stars": 80,
     "version": "v0.5.9",
-    "updated_at": "2026-02-05T13:42:05Z"
+    "updated_at": "2026-02-24T02:06:29Z"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
     "author": "RC-CHN",
@@ -10615,9 +10615,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_GPT_SoVITS",
-    "stars": 55,
+    "stars": 56,
     "version": "v3.0.2",
-    "updated_at": "2026-02-22T08:29:30Z",
+    "updated_at": "2026-02-24T01:36:48Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_GPT_SoVITS/main/logo.png"
   },
   "astrbot_plugin_search_pic": {
