@@ -26,8 +26,8 @@
     ],
     "social_link": "https://axi404.top",
     "stars": 0,
-    "version": "0.2.1",
-    "updated_at": "2026-02-24T07:17:51Z"
+    "version": "0.2.3",
+    "updated_at": "2026-02-24T10:11:15Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -837,8 +837,8 @@
       "steam"
     ],
     "stars": 2,
-    "version": "v1.2.1",
-    "updated_at": "2026-02-24T09:40:16Z",
+    "version": "v1.2.2",
+    "updated_at": "2026-02-24T10:13:24Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -4371,9 +4371,9 @@
       "轮盘"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 4,
+    "stars": 5,
     "version": "1.2.6",
-    "updated_at": "2026-02-23T17:44:38Z",
+    "updated_at": "2026-02-24T10:13:25Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -7760,8 +7760,8 @@
       "主动回复"
     ],
     "stars": 7,
-    "version": "v1.5.0",
-    "updated_at": "2026-02-24T06:55:49Z",
+    "version": "v1.6.0",
+    "updated_at": "2026-02-24T10:45:38Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -9780,9 +9780,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 151,
+    "stars": 152,
     "version": "v3.0.2",
-    "updated_at": "2026-02-23T11:23:11Z",
+    "updated_at": "2026-02-24T10:43:55Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_apis/main/logo.png"
   },
   "astrbot_plugin_help": {
