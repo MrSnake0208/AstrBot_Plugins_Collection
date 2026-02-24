@@ -1,4 +1,27 @@
 {
+  "astrbot-plugin-GPT-SoVITS": {
+    "display_name": "GPT-SoVITS",
+    "desc": "本地运行的 GPT-SoVITS-1007-cu124 的 Astrbot 文本转语音插件。",
+    "author": "w2902171175",
+    "repo": "https://github.com/w2902171175/astrbot_plugin_GPT-SoVITS",
+    "tags": [],
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-22T10:35:43Z"
+  },
+  "astrbot-plugin-topic-starter": {
+    "display_name": "topic_starter",
+    "desc": "主动话题发起、会话跟踪、可配置调度",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_topic_starter",
+    "tags": [
+      "话题",
+      "主动发言"
+    ],
+    "stars": 0,
+    "version": "v1.3.0",
+    "updated_at": "2026-02-24T11:30:31Z"
+  },
   "astrbot-plugin-web-screenshot": {
     "display_name": "API网页截图😝",
     "desc": "基于外部API提供网页截图功能的AstrBot插件，适用于OneBot QQ机器人",
@@ -2962,9 +2985,9 @@
       "nano_banana",
       "vertex_ai"
     ],
-    "stars": 13,
+    "stars": 14,
     "version": "v0.1.7",
-    "updated_at": "2026-02-17T11:15:18Z",
+    "updated_at": "2026-02-24T11:32:08Z",
     "logo": "https://raw.githubusercontent.com/sukafon/astrbot_plugin_big_banana/main/logo.png"
   },
   "astrbot_plugin_BitTorrent": {
@@ -8070,9 +8093,9 @@
       "文件处理"
     ],
     "author": null,
-    "stars": 25,
+    "stars": 26,
     "version": "2.6.0",
-    "updated_at": "2026-02-22T22:49:38Z"
+    "updated_at": "2026-02-24T11:14:22Z"
   },
   "astrbot_plugin_group_sign": {
     "name": "group_sign",
