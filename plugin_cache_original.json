@@ -20,7 +20,7 @@
     ],
     "stars": 0,
     "version": "v1.3.0",
-    "updated_at": "2026-02-24T11:30:31Z"
+    "updated_at": "2026-02-24T12:22:26Z"
   },
   "astrbot-plugin-web-screenshot": {
     "display_name": "API网页截图😝",
@@ -100,9 +100,9 @@
     "repo": "https://github.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes",
     "social_link": "https://github.com/xiaomizhoubaobei",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "v0.0.3",
-    "updated_at": "2026-02-24T03:11:45Z",
+    "updated_at": "2026-02-24T12:34:04Z",
     "logo": "https://raw.githubusercontent.com/xiaomizhoubaobei/astrbot_plugin_manosaba-memes/main/logo.png"
   },
   "astrbot-plugin-soulmap": {
@@ -723,7 +723,7 @@
     ],
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-20T02:44:57Z"
+    "updated_at": "2026-02-24T12:29:44Z"
   },
   "astrbot_plugin_lyricsplus": {
     "display_name": "接歌词 Plus",
@@ -860,8 +860,8 @@
       "steam"
     ],
     "stars": 2,
-    "version": "v1.2.2",
-    "updated_at": "2026-02-24T10:13:24Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-02-24T12:43:35Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -1603,9 +1603,9 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "pinned": true,
-    "stars": 20,
+    "stars": 21,
     "version": "2.2.3",
-    "updated_at": "2026-02-23T09:54:58Z",
+    "updated_at": "2026-02-24T13:02:31Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_worldbook/main/logo.png"
   },
   "astrbot_plugin_service_watcher": {
@@ -1643,7 +1643,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 14,
     "version": "4.6.2",
-    "updated_at": "2026-02-23T07:20:36Z",
+    "updated_at": "2026-02-24T13:02:12Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -1940,7 +1940,7 @@
     "social_link": "https://github.com/KonmaKanSinPack",
     "stars": 3,
     "version": "v1.0.1",
-    "updated_at": "2026-02-19T03:31:36Z"
+    "updated_at": "2026-02-24T12:28:30Z"
   },
   "astrbot_plugin_engram": {
     "display_name": "仿生双轨记忆系统",
@@ -3568,8 +3568,8 @@
       "表情"
     ],
     "stars": 20,
-    "version": "2.3.2",
-    "updated_at": "2026-02-23T19:20:44Z",
+    "version": "2.3.3",
+    "updated_at": "2026-02-24T13:05:14Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -4394,9 +4394,9 @@
       "轮盘"
     ],
     "social_link": "https://github.com/piexian",
-    "stars": 5,
+    "stars": 6,
     "version": "1.2.6",
-    "updated_at": "2026-02-24T10:13:25Z",
+    "updated_at": "2026-02-24T12:33:58Z",
     "logo": "https://raw.githubusercontent.com/piexian/astrbot_plugin_rg2/master/logo.png"
   },
   "astrbot_plugin_maimaidx": {
@@ -9978,9 +9978,9 @@
       "pixiv"
     ],
     "social_link": "https://github.com/vmoranv-reborn",
-    "stars": 10,
+    "stars": 11,
     "version": "1.7.1",
-    "updated_at": "2026-02-22T12:19:47Z",
+    "updated_at": "2026-02-24T12:28:01Z",
     "logo": "https://raw.githubusercontent.com/vmoranv-reborn/astrbot_plugin_pixiv_reborn/main/logo.png"
   },
   "astrbot_plugin_fuck": {
@@ -11519,7 +11519,7 @@
     "pinned": true,
     "stars": 147,
     "version": "v3.19",
-    "updated_at": "2026-02-23T12:09:25Z"
+    "updated_at": "2026-02-24T12:38:17Z"
   },
   "mccloud_command": {
     "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
