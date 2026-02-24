@@ -59,9 +59,9 @@
     "repo": "https://github.com/storyAura/astrbot_plugin_biliVideo",
     "social_link": "https://github.com/storyAura",
     "tags": [],
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.1",
-    "updated_at": "2026-02-24T00:23:40Z",
+    "updated_at": "2026-02-24T14:01:54Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_biliVideo/main/logo.png"
   },
   "astrbot-plugin-opencode-client": {
@@ -112,9 +112,9 @@
     "repo": "https://github.com/Luna-channel/astrbot_plugin_soulmap",
     "tags": [],
     "social_link": "",
-    "stars": 1,
+    "stars": 3,
     "version": "v1.0.0",
-    "updated_at": "2026-02-23T09:34:35Z",
+    "updated_at": "2026-02-24T14:03:03Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_soulmap/main/logo.png"
   },
   "astrbot-plugin-warframe-helper": {
@@ -456,9 +456,9 @@
     "author": "落日七号",
     "repo": "https://github.com/luori7hao/astrbot_plugin_payqr",
     "tags": [],
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
-    "updated_at": "2026-02-21T10:30:57Z"
+    "updated_at": "2026-02-24T14:50:20Z"
   },
   "astrbot-plugin-jx3": {
     "display_name": "剑网三游戏数据查询工具",
@@ -2339,9 +2339,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 129,
+    "stars": 130,
     "version": "Next-2.0.1",
-    "updated_at": "2026-02-24T08:24:48Z",
+    "updated_at": "2026-02-24T14:06:23Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3055,9 +3055,9 @@
       "学习",
       "人格"
     ],
-    "stars": 28,
+    "stars": 29,
     "version": "1.2.7",
-    "updated_at": "2026-02-23T09:55:24Z"
+    "updated_at": "2026-02-24T14:35:56Z"
   },
   "astrbot_plugin_angel_heart": {
     "display_name": "天使之心",
@@ -5260,9 +5260,9 @@
       "TTS"
     ],
     "social_link": "https://github.com/DBJD-CR",
-    "stars": 93,
+    "stars": 94,
     "version": "v1.1.5",
-    "updated_at": "2026-02-23T14:08:29Z",
+    "updated_at": "2026-02-24T13:56:35Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_proactive_chat/main/logo.png"
   },
   "astrbot-plugin-moremorelove": {
@@ -6501,8 +6501,8 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 7,
-    "version": "1.0.4",
-    "updated_at": "2026-02-23T14:05:35Z"
+    "version": "2.0.0",
+    "updated_at": "2026-02-24T13:43:12Z"
   },
   "astrbot_plugin_anti_revoke": {
     "desc": "[仅 OneBot]监控指定群聊会话撤回的消息并发送给目标用户",
@@ -7218,9 +7218,9 @@
       "社交"
     ],
     "social_link": "https://t.me/astrbot_plugin_HINS",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.3.6",
-    "updated_at": "2026-02-17T20:03:21Z"
+    "updated_at": "2026-02-24T14:28:41Z"
   },
   "astrbot_plugin_xfbank": {
     "desc": "一个简易的银行插件",
@@ -7783,8 +7783,8 @@
       "主动回复"
     ],
     "stars": 7,
-    "version": "v1.6.0",
-    "updated_at": "2026-02-24T10:45:38Z",
+    "version": "v1.5.0",
+    "updated_at": "2026-02-24T13:54:46Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -7916,8 +7916,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "stars": 69,
-    "version": "2.1.0",
-    "updated_at": "2026-02-23T17:05:20Z"
+    "version": "2.1.1",
+    "updated_at": "2026-02-24T13:15:45Z"
   },
   "cngal_search": {
     "desc": "CnGal查询",
@@ -10491,9 +10491,9 @@
       "浏览器"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_browser",
-    "stars": 26,
+    "stars": 27,
     "version": "v2.0.0",
-    "updated_at": "2026-02-23T11:22:20Z",
+    "updated_at": "2026-02-24T13:46:13Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_browser/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
@@ -10505,9 +10505,9 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 97,
+    "stars": 98,
     "version": "v3.2.7",
-    "updated_at": "2026-02-23T18:58:33Z",
+    "updated_at": "2026-02-24T14:50:27Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qqadmin/main/logo.png"
   },
   "astrbot_plugin_liars_bar": {
@@ -12104,9 +12104,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 179,
+    "stars": 180,
     "version": "v2.0.15",
-    "updated_at": "2026-02-24T09:21:11Z"
+    "updated_at": "2026-02-24T13:56:41Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
