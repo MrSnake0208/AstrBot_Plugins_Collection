@@ -27,7 +27,7 @@
     "social_link": "https://axi404.top",
     "stars": 0,
     "version": "0.2.1",
-    "updated_at": "2026-02-24T03:43:36Z"
+    "updated_at": "2026-02-24T07:17:51Z"
   },
   "astrbot-plugin-biliVideo": {
     "display_name": "哔哩哔哩视频总结",
@@ -67,7 +67,7 @@
     "social_link": "https://github.com/leafliber",
     "stars": 3,
     "version": "v1.7.1",
-    "updated_at": "2026-02-24T06:04:49Z",
+    "updated_at": "2026-02-24T08:07:27Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_iris_memory/master/logo.png"
   },
   "astrbot-plugin-manosaba-memes": {
@@ -290,7 +290,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 8,
     "version": "v1.3.0",
-    "updated_at": "2026-02-22T23:23:12Z",
+    "updated_at": "2026-02-24T07:50:07Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -407,8 +407,8 @@
     "social_link": "www.chuyel.cn",
     "tags": [],
     "stars": 5,
-    "version": "v1.0.5",
-    "updated_at": "2026-02-23T15:54:27Z",
+    "version": "v1.0.6",
+    "updated_at": "2026-02-24T08:45:36Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -561,7 +561,7 @@
     ],
     "stars": 3,
     "version": "1.0.2",
-    "updated_at": "2026-02-24T03:55:45Z",
+    "updated_at": "2026-02-24T08:08:50Z",
     "logo": "https://raw.githubusercontent.com/chufeng/astrbot_plugin_bili_resolver/main/logo.png"
   },
   "astrbot-plugin-inkfusion": {
@@ -2316,9 +2316,9 @@
     ],
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
-    "stars": 126,
+    "stars": 129,
     "version": "Next-2.0.1",
-    "updated_at": "2026-02-24T02:17:37Z",
+    "updated_at": "2026-02-24T08:24:48Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3883,9 +3883,9 @@
       "@"
     ],
     "social_link": "https://qm.qq.com/q/RMjGPizOAm",
-    "stars": 11,
+    "stars": 12,
     "version": "v2.2.2",
-    "updated_at": "2026-01-20T12:48:28Z",
+    "updated_at": "2026-02-24T07:21:05Z",
     "logo": "https://raw.githubusercontent.com/nuomicici/astrbot_plugin_AtTool/main/logo.png"
   },
   "astrbot_plugin_CloudImg": {
@@ -4686,9 +4686,9 @@
       "天气",
       "查询"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2025-12-31T02:21:04Z",
+    "updated_at": "2026-02-24T08:39:25Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_nyweather/main/logo.png"
   },
   "astrbot_plugin_goldsearch": {
@@ -4937,7 +4937,7 @@
     "social_link": "https://github.com/Luna-channel",
     "stars": 14,
     "version": "1.4.4",
-    "updated_at": "2026-02-23T14:55:45Z",
+    "updated_at": "2026-02-24T07:55:06Z",
     "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Conversa/main/logo.png"
   },
   "astrbot_plugin_shutdown": {
@@ -7085,9 +7085,9 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 48,
+    "stars": 49,
     "version": "3.0.2",
-    "updated_at": "2026-02-21T06:36:16Z",
+    "updated_at": "2026-02-24T08:08:26Z",
     "logo": "https://raw.githubusercontent.com/muyouzhi6/astrbot_plugin_tts_emotion_router/main/logo.png"
   },
   "findx010197/astrbot_plugin_reminder": {
@@ -8945,9 +8945,9 @@
     "tags": [
       "玩具"
     ],
-    "stars": 16,
+    "stars": 17,
     "version": "v0.1",
-    "updated_at": "2026-02-04T02:08:59Z"
+    "updated_at": "2026-02-24T08:50:33Z"
   },
   "astrbot_plugin_music": {
     "display_name": "点歌插件",
