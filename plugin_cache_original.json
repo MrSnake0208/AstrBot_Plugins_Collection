@@ -11,9 +11,9 @@
       "Onebot"
     ],
     "social_link": "https://github.com/tniany",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.3.1",
-    "updated_at": "2026-02-23T22:39:51Z",
+    "updated_at": "2026-02-24T08:57:48Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_web-screenshot/main/logo.png"
   },
   "astrbot-plugin-astrbot-enhance-mode": {
@@ -289,8 +289,8 @@
     ],
     "social_link": "https://github.com/HSOS6",
     "stars": 8,
-    "version": "v1.3.0",
-    "updated_at": "2026-02-24T07:50:07Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-02-24T09:01:58Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_ssh/main/logo.png"
   },
   "astrbot-plugin-httpadapter": {
@@ -341,8 +341,8 @@
     ],
     "social_link": "https://github.com/1-20182",
     "stars": 3,
-    "version": "v1.3.0",
-    "updated_at": "2026-02-21T03:47:58Z"
+    "version": "v1.7.0",
+    "updated_at": "2026-02-24T09:29:00Z"
   },
   "astrbot-plugin-Gemini-STT": {
     "display_name": "Gemini_STT",
@@ -407,8 +407,8 @@
     "social_link": "www.chuyel.cn",
     "tags": [],
     "stars": 5,
-    "version": "v1.0.6",
-    "updated_at": "2026-02-24T08:45:36Z",
+    "version": "v1.0.7",
+    "updated_at": "2026-02-24T09:19:48Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -836,9 +836,9 @@
     "tags": [
       "steam"
     ],
-    "stars": 1,
+    "stars": 2,
     "version": "v1.2.1",
-    "updated_at": "2026-02-21T13:35:49Z",
+    "updated_at": "2026-02-24T09:40:16Z",
     "logo": "https://raw.githubusercontent.com/DearCrazyLeaf/astrbot_plugin_steam_updates/master/logo.png"
   },
   "astrbot_plugin_codemage": {
@@ -3429,9 +3429,9 @@
       "链接"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 57,
+    "stars": 58,
     "version": "v1.3.0",
-    "updated_at": "2026-02-22T18:52:00Z",
+    "updated_at": "2026-02-24T09:52:44Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_parser/main/logo.png"
   },
   "astrbot_plugin_transport": {
@@ -4484,8 +4484,8 @@
     "repo": "https://github.com/exynos967/astrbot_plugin_picstatus",
     "tags": [],
     "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2026-01-10T14:08:17Z"
+    "version": "v1.3.0",
+    "updated_at": "2026-02-24T08:59:33Z"
   },
   "astrbot_plugin_continuous_message": {
     "display_name": "消息防抖动",
@@ -8657,9 +8657,9 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 28,
+    "stars": 29,
     "version": "v1.7.3",
-    "updated_at": "2026-02-20T15:46:44Z",
+    "updated_at": "2026-02-24T09:40:51Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_reimage": {
@@ -11391,8 +11391,8 @@
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "stars": 102,
-    "version": "v2.1.10",
-    "updated_at": "2026-02-23T14:12:49Z"
+    "version": "v2.1.11",
+    "updated_at": "2026-02-24T09:32:52Z"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
@@ -12081,9 +12081,9 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 178,
+    "stars": 179,
     "version": "v2.0.15",
-    "updated_at": "2026-02-24T03:44:42Z"
+    "updated_at": "2026-02-24T09:21:11Z"
   },
   "FateTrial_img_identify": {
     "desc": "智谱AI图像识别插件",
@@ -12189,9 +12189,9 @@
     "author": "buding",
     "repo": "https://github.com/zouyonghe/astrbot_plugin_voicevox",
     "tags": [],
-    "stars": 4,
+    "stars": 5,
     "version": "v1.0.3",
-    "updated_at": "2025-11-24T14:20:24Z"
+    "updated_at": "2026-02-24T09:33:50Z"
   },
   "astrbot_plugin_miaomiao": {
     "desc": "这是一个为 AstrBot 开发的插件，仍然在开发中，提供了一些有趣的功能，如随机推荐食物、扔骰子、生成语音等",
