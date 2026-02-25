@@ -25,7 +25,7 @@ MAX_DELAY = float(os.getenv("MAX_DELAY", "30"))
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "12"))
 
 PAT_TOKEN = os.getenv("PAT_TOKEN", "").strip()
-GITHUB_URL = "https://raw.githubusercontent.com/AstrBotDevs/AstrBot_Plugins_Collection/main/plugins.json"
+GITHUB_URL = "https://raw.githubusercontent.com/MrSnake0208/AstrBot_Plugins_Collection/refs/heads/main/plugins.json"
 
 
 def run_cmd(args: list[str], check: bool = True) -> subprocess.CompletedProcess[str]:
