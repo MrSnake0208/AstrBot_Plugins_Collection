@@ -24,8 +24,8 @@
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
     "stars": 0,
-    "version": "v1.7.4",
-    "updated_at": "2026-02-25T07:56:02Z",
+    "version": "v1.7.5",
+    "updated_at": "2026-02-25T08:16:54Z",
     "logo": "https://raw.githubusercontent.com/MrSnake0208/astrbot_plugin_human_service/main/logo.png"
   },
   "astrbot_plugin_qqadmin": {
