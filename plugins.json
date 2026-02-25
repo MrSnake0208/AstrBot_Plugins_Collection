@@ -1528,7 +1528,7 @@
     "display_name": "关键词回复",
     "desc": "支持图文回复、正则匹配关键词和灵活管理的关键词回复插件。",
     "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_keywords_reply",
+    "repo": "https://github.com/MrSnake0208/astrbot_plugin_keywords_reply",
     "tags": [
       "关键词",
       "自动回复"
@@ -7572,7 +7572,7 @@
     "display_name": "QQ群管插件",
     "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏禁言、违禁词禁言、投票禁言、宵禁等等",
     "author": "Zhalslar",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_qqadmin",
+    "repo": "https://github.com/MrSnake0208/astrbot_plugin_qqadmin",
     "social_link": "https://github.com/Zhalslar",
     "tags": [
       "QQ群管"
