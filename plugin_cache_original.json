@@ -1,4 +1,35 @@
 {
+  "astrbot-plugin-mewgenics": {
+    "display_name": "喵基因wiki查询",
+    "desc": "快速查询《喵喵的结合》(Mewgenics) 的 Wiki 数据。",
+    "author": "野生",
+    "repo": "https://github.com/yesheng440/astrbot_plugin_mewgenics",
+    "tags": [
+      "wiki",
+      "游戏"
+    ],
+    "social_link": "https://github.com/yesheng440",
+    "stars": 0,
+    "version": "v1.3.0",
+    "updated_at": "2026-02-24T18:57:29Z"
+  },
+  "astrbot-plugin-memorix": {
+    "display_name": "Memorix",
+    "desc": "让AstrBit拥有可检索、可维护、可追溯的长期记忆——图谱+向量混合检索，内置生命周期管理与 WebUI。",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_memorix",
+    "tags": [
+      "长期记忆",
+      "图谱",
+      "webui",
+      "向量",
+      "检索",
+      "人物画像"
+    ],
+    "stars": 1,
+    "version": "v0.2.2",
+    "updated_at": "2026-02-25T04:26:56Z"
+  },
   "astrbot-plugin-GPT-SoVITS": {
     "display_name": "GPT-SoVITS",
     "desc": "本地运行的 GPT-SoVITS-1007-cu124 的 Astrbot 文本转语音插件。",
@@ -198,8 +229,8 @@
       "PDF"
     ],
     "stars": 5,
-    "version": "2.4.0",
-    "updated_at": "2026-02-21T10:35:43Z",
+    "version": "3.0.0",
+    "updated_at": "2026-02-25T04:25:19Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-inaturalist-search": {
@@ -279,8 +310,8 @@
       "共同协作"
     ],
     "stars": 5,
-    "version": "2.4.0",
-    "updated_at": "2026-02-21T10:35:43Z",
+    "version": "3.0.0",
+    "updated_at": "2026-02-25T04:25:19Z",
     "logo": "https://raw.githubusercontent.com/blueraina/astrbot_plugin_novel/main/logo.png"
   },
   "astrbot-plugin-clonetts": {
@@ -334,9 +365,9 @@
     "author": "血与蔷薇",
     "repo": "https://github.com/danielsunrise/astrbot_plugin_halo_manager",
     "tags": [],
-    "stars": 1,
+    "stars": 2,
     "version": "1.2.1",
-    "updated_at": "2026-02-20T06:11:01Z"
+    "updated_at": "2026-02-25T03:45:43Z"
   },
   "astrbot-plugin-niji": {
     "display_name": "Niji Diary Sync",
@@ -431,7 +462,7 @@
     "tags": [],
     "stars": 6,
     "version": "v1.0.7",
-    "updated_at": "2026-02-24T23:43:09Z",
+    "updated_at": "2026-02-25T04:43:33Z",
     "logo": "https://raw.githubusercontent.com/chuyegzs/astrbot_plugin_meting/main/logo.png"
   },
   "astrbot-plugin-comfyui": {
@@ -874,9 +905,9 @@
       "agent",
       "codegen"
     ],
-    "stars": 21,
+    "stars": 22,
     "version": "1.1.1",
-    "updated_at": "2026-02-23T15:52:40Z",
+    "updated_at": "2026-02-25T02:49:30Z",
     "logo": "https://raw.githubusercontent.com/qa296/astrbot_plugin_codemage/main/logo.png"
   },
   "astrbot_plugin_XYTUFunction": {
@@ -1643,7 +1674,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 14,
     "version": "4.7.0",
-    "updated_at": "2026-02-24T17:04:42Z",
+    "updated_at": "2026-02-25T04:44:18Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_sharing/main/logo.png"
   },
   "astrbot_plugin_group_auto_clean_member": {
@@ -2004,9 +2035,9 @@
       "插件编写"
     ],
     "social_link": "https://github.com/DITF16",
-    "stars": 40,
+    "stars": 41,
     "version": "1.1.1",
-    "updated_at": "2026-02-23T02:15:29Z",
+    "updated_at": "2026-02-25T02:43:07Z",
     "logo": "https://raw.githubusercontent.com/DITF16/astrbot_plugin_self_iterative_core/master/logo.png"
   },
   "astrbot_plugin_groupGuard": {
@@ -2340,8 +2371,8 @@
     "pinned": true,
     "social_link": "https://github.com/NickCharlie",
     "stars": 130,
-    "version": "Next-2.0.1",
-    "updated_at": "2026-02-24T14:06:23Z",
+    "version": "Next-2.0.5",
+    "updated_at": "2026-02-25T02:28:12Z",
     "logo": "https://raw.githubusercontent.com/NickCharlie/astrbot_plugin_self_learning/main/logo.png"
   },
   "astrbot_plugin_mrfzccl": {
@@ -3567,9 +3598,9 @@
     "tags": [
       "表情"
     ],
-    "stars": 20,
-    "version": "2.3.3",
-    "updated_at": "2026-02-24T13:05:14Z",
+    "stars": 21,
+    "version": "2.3.4",
+    "updated_at": "2026-02-25T04:45:34Z",
     "logo": "https://raw.githubusercontent.com/nagatoquin33/astrbot_plugin_stealer/master/logo.png"
   },
   "astrbot_plugin_splitter": {
@@ -7403,9 +7434,9 @@
       "表白墙"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 64,
+    "stars": 65,
     "version": "v3.0.3",
-    "updated_at": "2026-02-23T13:43:30Z",
+    "updated_at": "2026-02-25T04:03:05Z",
     "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_qzone/main/logo.png"
   },
   "astrbot_plugin_matchreminder": {
@@ -7784,7 +7815,7 @@
     ],
     "stars": 7,
     "version": "v1.5.0",
-    "updated_at": "2026-02-24T13:54:46Z",
+    "updated_at": "2026-02-25T04:29:14Z",
     "logo": "https://raw.githubusercontent.com/AstraSolis/astrbot_proactive_reply/master/logo.png"
   },
   "treasure_bag_plugin": {
@@ -11428,9 +11459,9 @@
       "数据查询",
       "图片"
     ],
-    "stars": 17,
+    "stars": 18,
     "version": "v1.8.6",
-    "updated_at": "2026-02-22T11:13:09Z"
+    "updated_at": "2026-02-25T03:19:18Z"
   },
   "astrbot_plugin_GGAC_Messenger": {
     "desc": "anka - GGAC 作品更新推送插件 - 自动监控并推送 GGAC 平台精选作品的更新! 附赠一套 GGAC 网站完整 api! 还有随机抽取 GGAC 内容功能, 详情见github页面!",
