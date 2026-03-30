@@ -41,5 +41,15 @@
     "version": "v3.2.7",
     "updated_at": "2026-02-24T03:04:57Z",
     "logo": "https://raw.githubusercontent.com/MrSnake0208/astrbot_plugin_qqadmin/main/logo.png"
+  },
+  "astrbot_plugin_yuan_redeem": {
+    "display_name": "代号鸢兑换",
+    "desc": "私聊绑定代号鸢账号并批量兑换全局兑换码的 AstrBot 插件",
+    "author": "MrSnake",
+    "repo": "https://github.com/MrSnake0208/yuan",
+    "tags": [],
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-30T05:39:00Z"
   }
 }
