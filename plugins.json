@@ -29,5 +29,13 @@
     "tags": [
       "QQ群管"
     ]
+  },
+  "astrbot_plugin_yuan_redeem": {
+    "display_name": "代号鸢兑换",
+    "desc": "私聊绑定代号鸢账号并批量兑换全局兑换码的 AstrBot 插件",
+    "author": "MrSnake",
+    "repo": "https://github.com/MrSnake0208/yuan",
+    "tags": [
+    ]
   }
 }
